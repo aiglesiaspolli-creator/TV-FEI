@@ -1,0 +1,15 @@
+como fazer lasanha;3;1;4
+review mouse;1;0;1
+gols da rodada;2;1;4
+tutorial pixel art;0;0;0
+vlog viagem;0;0;0
+curiosidades;0;0;0
+treino de perna;0;0;0
+unboxing ps5;0;0;0
+receita pudim de leite;0;0;0
+top 10 series;0;1;1
+programar em python;0;0;0
+conhecendo meu setup;0;0;0
+noticias do dia;0;0;0
+fotografia mobile;0;0;0
+meditacao guiada;0;0;0

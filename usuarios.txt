@@ -1,0 +1,6 @@
+admin;admin;admin
+Arthur;1234;admin
+Joao;batata;admin
+Julia;987;user
+Marcos;654;user
+User;1;user
